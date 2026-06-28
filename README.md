@@ -1,16 +1,36 @@
-## Hi there 👋
+Aryan Sharma
 
-<!--
-**Aryan-Protein-Vala/Aryan-Protein-Vala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer
 
-Here are some ideas to get you started:
+Building systems software, networking infrastructure and developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+
+• Offline Payment Infrastructure (Astral)
+
+• High-performance Networking (Aether)
+
+• Systems Utilities (Prometheus)
+
+• AI Infrastructure
+
+Tech
+
+Rust
+Go
+Swift
+Kotlin
+TypeScript
+Python
+
+Interests
+
+Distributed Systems
+
+Operating Systems
+
+Networking
+
+Cryptography
+
+Developer Tools
