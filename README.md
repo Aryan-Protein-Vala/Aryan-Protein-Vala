@@ -9,9 +9,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Building+systems+software%2C+networking+infra+%26+dev+tools;Rust+%7C+Go+%7C+TypeScript+%7C+Swift+%7C+Python;Distributed+Systems+%E2%80%A2+Backend+Engineering+%E2%80%A2+AI+Infra;IIT+Madras+%E2%80%A2+BSc+Data+Science+%26+Programming" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=%20Building+systems+software%2C+networking+infra+%26+dev+tools;%20Rust+%7C+Go+%7C+TypeScript+%7C+Swift+%7C+Python;%20Distributed+Systems+%E2%80%A2+Backend+Engineering+%E2%80%A2+AI+Infra;%20IIT+Madras+%E2%80%A2+BSc+Data+Science+%26+Programming" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -31,14 +29,14 @@
 <!--                         TECH STACK                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;Tech Arsenal
+## ⚡ &nbsp;Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,go,ts,python,java,swift,kotlin,cpp&perline=8&theme=dark" alt="Languages" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,astro,tailwind,prisma,supabase,docker&perline=8&theme=dark" alt="Frameworks & Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,astro,tailwind,prisma,supabase,docker&perline=8&theme=dark" alt="Frameworks and Tools" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,linux,postgres,redis,graphql,bash&perline=8&theme=dark" alt="AI/ML & Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,linux,postgres,redis,graphql,bash&perline=8&theme=dark" alt="AI ML and Infrastructure" />
 </p>
 
 <details>
@@ -62,7 +60,7 @@
 <!--                       KEY METRICS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;Key Metrics
+## 🚀 &nbsp;Key Metrics
 
 <p align="center">
   <img src="https://img.shields.io/badge/71_MB%2Fs-Peak_Sync_Throughput-6E40C9?style=for-the-badge&labelColor=0d1117" alt="Throughput"/>
